@@ -3,4 +3,4 @@ def start(x):
 
 
 if __name__ == '__main__':
-	print(start(10))
+	print(start(15))
